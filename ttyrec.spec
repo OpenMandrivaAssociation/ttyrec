@@ -19,7 +19,7 @@ programs running on a terminal.
 %patch0 -p1
 
 %build
-%make
+%make CFLAGS=-DHAVE_getpt
 
 %install
 install -d %{buildroot}%{_bindir}
