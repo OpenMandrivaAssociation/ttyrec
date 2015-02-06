@@ -1,6 +1,6 @@
 Name:		ttyrec
 Version:	1.0.8
-Release:	1
+Release:	2
 Summary:	A tty recorder
 Group:		Text tools
 URL:		http://namazu.org/~satoru/ttyrec/index.html.en
