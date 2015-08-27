@@ -30,15 +30,8 @@ install -m 755 ttyplay %{buildroot}%{_bindir}
 install -m 755 ttytime %{buildroot}%{_bindir}
 
 %files
-%defattr(-,root,root)
 %{_bindir}/*
 %{_mandir}/man1/*
 
 
-
-%changelog
-* Sun Apr 29 2012 Johnny A. Solbu <solbu@mandriva.org> 1.0.8-1
-+ Revision: 794421
-- Adding make flag, as suggested by README
-- import ttyrec
 
