@@ -3,7 +3,7 @@ Version:	1.0.8
 Release:	2
 Summary:	A tty recorder
 Group:		Text tools
-URL:		http://namazu.org/~satoru/ttyrec/index.html.en
+URL:		https://namazu.org/~satoru/ttyrec/index.html.en
 Source0:	http://namazu.org/~satoru/ttyrec/%{name}-%{version}.tar.gz
 Patch0:		%{name}-Makefile.patch
 License:	BSD
